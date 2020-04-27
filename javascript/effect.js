@@ -5,6 +5,10 @@ function transition_content(onclicked_button, div_to_change){
     document.getElementById(div_to_change).style.zIndex = "10";
 }
 
+function show_email(){
+    alert("Email: ytaveiros@gmail.com")
+}
+
 function clear_elements(){
     var elements = ['web-developer-button', 'mobile-developer-button', 'design-button', 'twig-button'];
     for (let element of elements){
