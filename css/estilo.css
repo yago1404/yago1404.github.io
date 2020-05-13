@@ -85,6 +85,8 @@ footer p{
     height: 57px;
     width: 184px;
     padding: 16px auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 #header{
     background-color: #14182d;
@@ -200,7 +202,7 @@ li p{
 }
 #portfolio{
     background-color: #14182d;
-    height: 1140px;
+    height: 1040px;
     padding: 102px 0px;
 }
 #portfolio li{

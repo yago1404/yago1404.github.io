@@ -8,6 +8,9 @@ function transition_content(onclicked_button, div_to_change){
 function show_email(){
     alert("Email: ytaveiros@gmail.com")
 }
+function show_contact() {
+    alert("Whatsapp: (82) 98850-9560\nEmail: ytaveiros@gmail.com")
+}
 
 function clear_elements(){
     var elements = ['web-developer-button', 'mobile-developer-button', 'design-button', 'twig-button'];
