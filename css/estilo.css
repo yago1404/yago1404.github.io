@@ -17,6 +17,9 @@
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+body {
+    padding-top: 80px;
+}
 a{
     text-decoration: none;
 }
@@ -87,6 +90,14 @@ footer p{
 
 
 
+#header {
+    z-index: 1000;
+    width: 100%;
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+}
 #contact-link{
     background-color: #A40610;
     border: 1px solid #A40610;
